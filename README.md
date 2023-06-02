@@ -1,5 +1,7 @@
 # discord.js avatar command
-![](https://github.com/aflzr/avatarcommand/assets/108966434/810cccc8-5c09-4a31-a695-0ce4806fba40)
+![](https://github.com/aflzr/discord-avatar-command/assets/108966434/cb1781d6-e879-4b13-aaea-d01847c625ac)
+
+
 ## Installation
 
 ### discord.js v14
