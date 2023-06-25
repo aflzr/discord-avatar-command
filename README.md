@@ -17,4 +17,4 @@ token="bot token"
 clientId="bot id"
 ```
 ## contact with me
-Discord: `àlzahrani#8720`
+Discord: `z.ww`
